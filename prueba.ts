@@ -1,3 +1,5 @@
+//*Curso del influencer HOLA MUNDO*//
+
 //DECLARACION DE VARIABLE Y DATOS//
 
 let extincionDinosaurio: number = 76_000_000
